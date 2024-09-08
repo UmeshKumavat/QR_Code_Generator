@@ -53,7 +53,7 @@ body{
     justify-content: space-between;
 }
 .qr-footer{
-    /* margin-top: 30px; */
+    
     display: flex;
     justify-content: center;
 }
@@ -97,12 +97,15 @@ body{
         font-size: 16px;
         padding: 6px;
     }
-    /* .qr-body img{
+    .qr-body img{
         max-width: 100%;
         height: auto;
         margin-block: 6px;
         padding: 10px;
         border: 0.5px solid var(--border-color);
         border-radius: var(--border-radius);
-    } */
+    }
 }
+
+
+
